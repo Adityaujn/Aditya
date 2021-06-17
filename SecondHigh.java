@@ -2,7 +2,7 @@ public class SecondHigh {
  
 	public static void main(String[] args) {
  
-		int arr[] = { -91, -46, -47, -86, -92, -52, -48, -36, -66, -85 };
+		int[] arr = { -91, -46, -47, -86, -92, -52, -48, -36, -66, -85 };
 		int largest = arr[0];
 		int secondLargest = arr[0];
 		

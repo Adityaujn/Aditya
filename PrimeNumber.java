@@ -15,7 +15,8 @@ import java.util.Scanner;
        else 
        {  
            System.out.println(n + " :- is not a prime number");
-       }  
+       }
+
    }  
   
 		public static boolean isPrime(int n) 
